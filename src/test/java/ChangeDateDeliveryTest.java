@@ -1,4 +1,4 @@
-import Data.DataPlaning;
+import data.DataPlaning;
 import com.codeborne.selenide.SelenideElement;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
